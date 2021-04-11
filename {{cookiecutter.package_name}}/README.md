@@ -7,7 +7,7 @@
 Install this
 
 ```sh
-pip install {{cookiecutter.project_slug}}
+pip install {{cookiecutter.package_name}}
 ```
 
 Add this to the `ZEMFROG_THEME` configuration

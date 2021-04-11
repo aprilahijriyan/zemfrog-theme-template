@@ -1,0 +1,10 @@
+{
+    "full_name": "Aprila Hijriyan",
+    "email": "hijriyan23@gmail.com",
+    "project_name": "Zemfrog Theme",
+    "theme_name": "quasar",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "description": "Zemfrog Theme Template",
+    "version": "1.0.1",
+    "license": "MIT"
+}

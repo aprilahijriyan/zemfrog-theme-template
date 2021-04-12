@@ -10,9 +10,9 @@ Install this
 pip install {{cookiecutter.package_name}}
 ```
 
-Add this to the `ZEMFROG_THEME` configuration
+Add this to the `ZEMFROG_THEMES` configuration
 
 ```python
-ZEMFROG_THEME = ["{{cookiecutter.project_slug}}"]
+ZEMFROG_THEMES = ["{{cookiecutter.project_slug}}"]
 ```
 
